@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/WeatherApp-API-React-Native/static/js/main.4bfbe2b8.js",
+    "static/js/678.8cc7f7ae.js": "/WeatherApp-API-React-Native/static/js/678.8cc7f7ae.js",
+    "favicon.ico": "/WeatherApp-API-React-Native/favicon.ico",
+    "index.html": "/WeatherApp-API-React-Native/index.html",
+    "favicon-32.png": "/WeatherApp-API-React-Native/favicon-32.png",
+    "favicon-16.png": "/WeatherApp-API-React-Native/favicon-16.png",
+    "manifest.json": "/WeatherApp-API-React-Native/manifest.json",
+    "serve.json": "/WeatherApp-API-React-Native/serve.json",
+    "main.4bfbe2b8.js.map": "/WeatherApp-API-React-Native/static/js/main.4bfbe2b8.js.map",
+    "678.8cc7f7ae.js.map": "/WeatherApp-API-React-Native/static/js/678.8cc7f7ae.js.map"
+  },
+  "entrypoints": [
+    "static/js/678.8cc7f7ae.js",
+    "static/js/main.4bfbe2b8.js"
+  ]
+}
